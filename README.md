@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Nilesh Dhage
-- 👀 I’m interested in Dot Net programming (Windows & Web Development)
+- 👀 Programming Languages: Dot Net, VB.net, C#.net, Python
+- 👀 Visualization tools: PowerBI, Tableau, Intermidiate Excel
+- 👀 Cloud: Microsoft Azure
 - 🌱 I’m currently learning Data Science which includes the syllabus of Python, PowerBI, Tableau, Machine Learning, Basics of Statishtics and Google sheet
-- 💞️ I’m looking to collaborate on dot net development
+- 💞️ I’m looking to collaborate on the any of above mentioned skills. 
 - 📫 How to reach me nileshdhage3@gmail.com / 9552716192
 
 <!---
