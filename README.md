@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nilesh Dhage
-- 👀 Programming Languages: ASP.Net, VB.net, C#.net, Python
+- 👀 Programming Languages: Python, ASP.Net, VB.net, C#.net 
+- 👀 Database: SQL Server, MS Access, Oracle
 - 👀 Visualization tools: PowerBI, Tableau, Intermidiate Excel
 - 👀 Cloud: Microsoft Azure
 - 🌱 I’m currently learning Data Science which includes the syllabus of Python, PowerBI, Tableau, Machine Learning, Basics of Statishtics and Google sheet
