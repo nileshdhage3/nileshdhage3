@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nilesh Dhage
-- 👀 Programming Languages: Python, Javascript, ASP.Net, VB.net, C#.net 
+- 👀 Programming Languages: Python, Node Js, ASP.Net, VB.net, C#.net 
 - 👀 Database: SQL Server, MS Access, Oracle
 - 👀 Visualization tools: PowerBI, Tableau basics, Advanced Excel
-- 👀 Cloud: Microsoft Azure and AWS (Amazon Web Service)
+- 👀 Cloud: Microsoft Azure and AWS (Amazon Web Service) - Amazon Lex, Lambda, Connect, CloudWatch, S3
 - 🌱 I have successfully completed **Data Science** which includes the syllabus of Python (Programming and Model building), PowerBI, Tableau basics, Machine Learning, Basics of Statishtics and Google sheet
 - 💞️ I’m looking to collaborate on the any of above mentioned skills. 
 - 📫 How to reach me: nileshdhage3@gmail.com / 9552716192
